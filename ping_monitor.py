@@ -31,7 +31,7 @@ def ping_url(url):
 
 def main():
     # URL to monitor - change this to your desired URL
-    url = "https://google.com"
+    url = "https://9a9f1f34-ac14-4cd2-bf93-0b725c128f7c-00-3ugen2u54w7my.worf.replit.dev:8080/"
     
     # Add http:// if no protocol specified
     if not url.startswith(('http://', 'https://')):
